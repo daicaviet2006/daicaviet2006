@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vet 🚀</h1>
 <p align="center">
-  <em>"Code là nghệ thuật, và mình là kẻ vẽ nên những dòng lệnh." 👨‍💻</em>
+  <em>"Code là nghệ thuật" 👨‍💻</em>
 </p>
 
 ---
