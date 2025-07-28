@@ -8,7 +8,7 @@
 ### 🧠 About Me
 - 🔭 I'm a **developer** who loves solving real-world problems.
 - 🎧 When I'm not coding, you'll find me **reading books** or **vibing to music**.
-- 💬 Ask me about anything related to **C/C++**, **Python**
+- 💬 Ask me about anything related to **C/C++**, **Python**,**Java**
 
 ---
 
